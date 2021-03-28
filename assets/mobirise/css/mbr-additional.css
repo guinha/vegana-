@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
 
@@ -17,7 +18,7 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 2.8rem;
   line-height: 1.1;
 }
@@ -1064,7 +1065,7 @@ a {
   }
 }
 .cid-sqKrvmtVqG {
-  background-image: url("../../../assets/images/capa-site-700x713.jpg");
+  background-image: url("../../../assets/images/vegana-capa-site-743x720.jpg");
 }
 .cid-sqKrvmtVqG .image-wrap img {
   width: 100%;
@@ -1091,7 +1092,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sqKt0JNAGk .icon-box {
-  background: #84ce8f;
+  background: #0d7265;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -1113,43 +1114,16 @@ a {
     margin-bottom: 2rem;
   }
 }
-.cid-ssBN42CBRU {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-ssUAw2cxYG {
   background-color: #0d7265;
 }
-@media (max-width: 767px) {
-  .cid-ssBN42CBRU .card-box {
-    padding: 1rem;
-  }
+.cid-ssUAw2cxYG .mbr-section-title {
+  color: #ffffff;
 }
-@media (min-width: 768px) {
-  .cid-ssBN42CBRU .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-ssBN42CBRU .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-ssBN42CBRU .card-wrapper {
-  border-radius: 4px;
-  background-color: #ffffff;
-}
-.cid-ssBN42CBRU .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-ssBN42CBRU .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-ssBN42CBRU .price {
-  color: #e43f3f;
-}
-.cid-ssBN42CBRU .card-title {
-  color: #0d7265;
+.cid-ssUAw2cxYG .mbr-text,
+.cid-ssUAw2cxYG .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-ssC5D5fGEj {
   padding-top: 0rem;
@@ -1426,6 +1400,44 @@ a {
 .cid-ssTFP5rhyz .mbr-text {
   color: #ffffff;
 }
+.cid-ssBN42CBRU {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #0d7265;
+}
+@media (max-width: 767px) {
+  .cid-ssBN42CBRU .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-ssBN42CBRU .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-ssBN42CBRU .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-ssBN42CBRU .card-wrapper {
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.cid-ssBN42CBRU .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-ssBN42CBRU .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-ssBN42CBRU .price {
+  color: #e43f3f;
+}
+.cid-ssBN42CBRU .card-title {
+  color: #0d7265;
+}
 .cid-srmJVTr7vP {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1449,19 +1461,19 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #53a44e;
+  border: 2px solid #0d7265;
   transition: all 0.3s;
 }
 .cid-srmJVTr7vP .social-row .soc-item .mbr-iconfont {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #53a44e;
+  color: #0d7265;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
 .cid-srmJVTr7vP .social-row .soc-item:hover {
-  background-color: #53a44e;
+  background-color: #0d7265;
 }
 .cid-srmJVTr7vP .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
@@ -1773,5 +1785,5 @@ a {
 .cid-sqKtj0aKht {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #84ce8f;
+  background-color: #0d7265;
 }
